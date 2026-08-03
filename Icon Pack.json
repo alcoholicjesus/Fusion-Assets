@@ -1,22 +1,66 @@
 [
   {
-    "name": "IM",
-    "url": "https://i.ibb.co/DsbMF1v/IMDb.png"
+    "name": "AL (V)",
+    "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/AL.png"
   },
-  {
-    "name": "ML",
-    "url": "https://i.ibb.co/pvQV8w8L/My-Anime-List.png"
-  },
-  {
-    "name": "RT",
-    "url": "https://i.ibb.co/F4KTx7d2/Rotten-Tomatoes.png"
-  },
-  {
-    "name": "TM",
-    "url": "https://i.ibb.co/mrvrxxP5/TMDb.png"
-  },
-  {
-    "name": "TR",
-    "url": "https://i.ibb.co/84d2DTSr/Trakt.png"
-  }
+    {
+        "name": "IM (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/IM.png"
+    },
+    {
+        "name": "LB (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/LB.png"
+    },
+    {
+        "name": "LB (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/LB.png"
+    },
+    {
+        "name": "MC (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/MC.png"
+    },
+    {
+        "name": "MC (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/MC.png"
+    },
+    {
+        "name": "ML (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/ML.png"
+    },
+    {
+        "name": "ML (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/ML.png"
+    },
+    {
+        "name": "Overall (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/Overall.png"
+    },
+    {
+        "name": "RE (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/RE.png"
+    },
+    {
+        "name": "RE (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/RE.png"
+    },
+    {
+        "name": "RT (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/RT.png"
+    },
+    {
+        "name": "RT (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/RT.png"
+    },
+    {
+        "name": "TM (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/TM.png"
+    },
+    {
+        "name": "TR (H)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Horizontal/TR.png"
+    },
+    {
+        "name": "TR (V)",
+        "url": "https://github.com/alcoholicjesus/Fusion-Assets/blob/main/Rating%20Icons/Vertical/TR.png"
+    }
 ]
