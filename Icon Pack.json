@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IM",
+    "url": "https://i.ibb.co/DsbMF1v/IMDb.png"
+  },
+  {
+    "name": "ML",
+    "url": "https://i.ibb.co/pvQV8w8L/My-Anime-List.png"
+  },
+  {
+    "name": "RT",
+    "url": "https://i.ibb.co/F4KTx7d2/Rotten-Tomatoes.png"
+  },
+  {
+    "name": "TM",
+    "url": "https://i.ibb.co/mrvrxxP5/TMDb.png"
+  },
+  {
+    "name": "TR",
+    "url": "https://i.ibb.co/84d2DTSr/Trakt.png"
+  }
+]
