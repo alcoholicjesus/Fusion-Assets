@@ -5,7 +5,7 @@
     "pinToTop": true,
     "focusGlowEnabled": true,
     "showAllTab": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "folders": [
       {
         "id": "folder-SPOTHEAD",
@@ -2335,7 +2335,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "backdropImageUrl": "",
     "focusGlowEnabled": true
@@ -6373,7 +6373,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "backdropImageUrl": "",
     "focusGlowEnabled": true
@@ -6381,7 +6381,7 @@
   {
     "id": "collection-3UOL2OFV",
     "title": "Moods & Vibes",
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "pinToTop": true,
     "showAllTab": true,
     "folders": [
@@ -7651,7 +7651,7 @@
   {
     "id": "collection-BASEDON1",
     "title": "Based on",
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "pinToTop": true,
     "showAllTab": true,
     "focusGlowEnabled": true,
@@ -19947,7 +19947,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -32586,7 +32586,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -36638,7 +36638,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -38526,7 +38526,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -40824,7 +40824,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -41713,7 +41713,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -42529,7 +42529,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -50088,7 +50088,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   },
@@ -50097,7 +50097,7 @@
     "title": "Documentaries",
     "pinToTop": true,
     "showAllTab": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "folders": [
       {
         "id": "folder-3EO6D18E",
@@ -70091,7 +70091,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "backdropImageUrl": "",
     "focusGlowEnabled": true
@@ -74930,7 +74930,7 @@
       }
     ],
     "pinToTop": true,
-    "viewMode": "TABBED_GRID",
+    "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
     "focusGlowEnabled": true
   }
